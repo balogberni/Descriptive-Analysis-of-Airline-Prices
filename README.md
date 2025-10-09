@@ -16,3 +16,6 @@ The dataset contains several flight-related features, including:
 - ***firstclass_price*** – the average ticket price for first class
 + ***hours*** – the total flight duration in hours
 - ***redeye*** – whether the flight was an overnight flight
+
+\
+**[View the full analysis and results here: RESULTS.md](RESULTS.md)**

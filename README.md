@@ -18,5 +18,6 @@ The dataset contains several flight-related features, including:
 - ***redeye*** – whether the flight was an overnight flight
 \
 ### Executive Summary 🔍
+ide osszefoglalni
 \
 **[View the full analysis and results here ➡️ RESULTS.md](RESULTS.md)**

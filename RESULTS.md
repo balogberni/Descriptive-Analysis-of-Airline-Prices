@@ -1,4 +1,4 @@
-# Explanation of Results 🔍
+# Results of Exploratory Analysis 🔍
 This document deals with the presentation of results and their thorough explanation.   
 Note, that in some cases a random sample was taken from the data to make the visualizations more transparent and readable,  
 since the dataset contains 129 780 rows.

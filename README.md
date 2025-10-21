@@ -16,7 +16,17 @@ The dataset contains several flight-related features, including:
 - ***firstclass_price*** – the average ticket price for first class
 + ***hours*** – the total flight duration in hours
 - ***redeye*** – whether the flight was an overnight flight
-\
+### Python libraries used:
+- Pandas
+- Numpy
+- Seaborn
+- Matplotlib
+
+### Types of visualizations used:
+- Combined boxplots
+- Histograms
+- Scatterplots
+
 ### Executive Summary 🔍
 ide osszefoglalni
 \
